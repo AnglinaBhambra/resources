@@ -29,8 +29,16 @@
 
 ## Linear Regression with One Variable
 
+- __Model Reresentation__
+  - Univariate Linear regression → Linear regression with one variable
 
-
+- __Cost Function__: helps us figure out how to fit the best possible straight line to our data.
+  - Walked through the _Square Error Cost_ / _Mean Squared Error_ function.
+    - mostly used for regression problems
+  - This helps us measure the accuracy of our hypothesis function.
+  - Our goal is to minimise the cost function.
+  - We then took a look at contour plots for <img src="https://render.githubusercontent.com/render/math?math=J(\theta_0, \theta_1)">, and will look at an algorithm to help us find the minimum cost function (J).
+    - Gradient Descent
 
 
 

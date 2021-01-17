@@ -3,7 +3,7 @@ A centralised place to organise what I've been learning.
 
 
 ### Machine Learning
-- [Course Notes](https://github.com/AnglinaBhambra/resources/tree/main/ML%20Courses)  
+- [Courses](https://github.com/AnglinaBhambra/resources/tree/main/ML%20Courses)  
 
 
 ### Software Engineering
